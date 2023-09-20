@@ -1,4 +1,11 @@
 # course-jsf
+
+## Ferramentas utilizadas:
+- Java 8
+- IntelliJ IDEA
+- Maven
+- WildFly
+
 Link course: [Maratona JSF](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J)
 
 channel: [Dev Dojo Brasil](https://www.youtube.com/@DevDojoBrasil)
